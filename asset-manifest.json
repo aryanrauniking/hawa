@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hawa/static/css/main.cd78e1e8.chunk.css",
+    "main.js": "/hawa/static/js/main.e9329ec7.chunk.js",
+    "main.js.map": "/hawa/static/js/main.e9329ec7.chunk.js.map",
+    "runtime-main.js": "/hawa/static/js/runtime-main.cb29d6b5.js",
+    "runtime-main.js.map": "/hawa/static/js/runtime-main.cb29d6b5.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/hawa/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.f687d2ce.chunk.js": "/hawa/static/js/2.f687d2ce.chunk.js",
+    "static/js/2.f687d2ce.chunk.js.map": "/hawa/static/js/2.f687d2ce.chunk.js.map",
+    "index.html": "/hawa/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/hawa/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.cd78e1e8.chunk.css.map": "/hawa/static/css/main.cd78e1e8.chunk.css.map",
+    "static/js/2.f687d2ce.chunk.js.LICENSE.txt": "/hawa/static/js/2.f687d2ce.chunk.js.LICENSE.txt",
+    "static/media/404.7d8adab9.svg": "/hawa/static/media/404.7d8adab9.svg",
+    "static/media/about.b513ab68.svg": "/hawa/static/media/about.b513ab68.svg",
+    "static/media/buy.a045e713.svg": "/hawa/static/media/buy.a045e713.svg",
+    "static/media/contact.6e7ea615.svg": "/hawa/static/media/contact.6e7ea615.svg",
+    "static/media/home.e7b15cb6.svg": "/hawa/static/media/home.e7b15cb6.svg",
+    "static/media/logo.1e06aa55.svg": "/hawa/static/media/logo.1e06aa55.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb29d6b5.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.f687d2ce.chunk.js",
+    "static/css/main.cd78e1e8.chunk.css",
+    "static/js/main.e9329ec7.chunk.js"
+  ]
+}
